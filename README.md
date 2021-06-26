@@ -1,16 +1,17 @@
-# personal_mysql
-
-A new Flutter project.
+# Flutter MySql Crud Template
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+First config your host details.
 
-A few resources to get you started if this is your first Flutter project:
+![mysql config](https://user-images.githubusercontent.com/53379496/123512904-ae794e00-d6a7-11eb-865b-1a5d7027b754.PNG)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+After config action pages.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![mysql config1](https://user-images.githubusercontent.com/53379496/123512996-2e071d00-d6a8-11eb-9361-ed7ca66177c6.PNG)
+
+After Run on Emulator.
+
+![mysql config2](https://user-images.githubusercontent.com/53379496/123513008-3f502980-d6a8-11eb-87cb-0af3f5647ae9.png)
+
+All is done.
